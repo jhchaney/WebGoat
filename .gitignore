@@ -15,6 +15,7 @@
 /.externalToolBuilders/
 .project
 /target
+*/target
 .classpath
 .idea/
 .settings/
